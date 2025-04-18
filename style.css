@@ -56,7 +56,7 @@ a:hover {
 .logo {
   display: block;
   margin: 20px auto;
-  max-width: 150px; /* adjust as needed */
+  max-width: 75px; /* adjust as needed */
   height: auto;
 }
 
